@@ -1,7 +1,8 @@
 plugins {
     application
+    id("org.barfuin.gradle.taskinfo") version "2.2.0"
 }
-
+    
 repositories {
     mavenCentral()
 }
