@@ -7,6 +7,7 @@
 
 plugins {
     application
+    id("my-cs-plugin")
 }
 
 repositories {
