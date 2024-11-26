@@ -84,7 +84,6 @@ public class HelloTask extends DefaultTask {
 }
 ```
 
-
 ## 프로젝트 구조
 
 ```text
